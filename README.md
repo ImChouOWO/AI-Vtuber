@@ -1,6 +1,6 @@
 # AI-Vtuber
 
-### 簡介/Introduction
+### 簡介 / Introduction
 
 > [!NOTE]
 > 這項專案透過本地端的語言模型和OpenVoice，打造出一個性化的Vtuber
@@ -48,7 +48,11 @@
 > ```
 >pip install  playsound
 > ```
->
+
+### 執行 檔案 / run file
+```
+python main.py
+```
 
 ### Demo
 
