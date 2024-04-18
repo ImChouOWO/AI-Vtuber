@@ -32,7 +32,7 @@
 >
 >└── model/
 >
->      └── pre-trained/
+>      └── pre-trained model's file
 >```
 
 
